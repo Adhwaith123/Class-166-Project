@@ -1,1 +1,3 @@
-# Class-166-Project
+# PRO-C166-TA
+
+Teacher Activity for C166
